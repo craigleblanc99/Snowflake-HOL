@@ -205,7 +205,7 @@ WHERE DATE = :daterange
 
 Here's what your completed dashboard should look like:
 
-![Completed Dashboard](Completed_dashboard.png)
+<img title="Completed Dashboard" src="Completed_Dashboard.png">
 
 The dashboard shows:
 - **Top Row:** Three KPI tiles (Total Revenue, Total Orders, Average Order Value)
